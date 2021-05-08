@@ -3,7 +3,7 @@
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/bddc412872ab40706469c.jpg">
+  <img src="https://telegra.ph/file/059c367060434286d010e.jpg
 </p>
 
 <h3>Requirements 📝</h3>
@@ -20,7 +20,7 @@
 - `/song <song name>` - download songs you want quickly
 - `/search <query>` - search videos on youtube with details
 
-#### Admins only
+### Admins only
 - `/pause` - pause song play
 - `/resume` - resume song play
 - `/skip` - play next song
